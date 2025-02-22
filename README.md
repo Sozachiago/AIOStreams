@@ -44,7 +44,7 @@ The addon will scrape all results from all addons, apply your configuration, and
 
 ## FAQ
 
-### How does it work?
+### How doess it work?
 
 The addon has parsers for specific addons and can extract the relevant information.
 It goes through each addon you selected and obtains the results with all the parsed information.
